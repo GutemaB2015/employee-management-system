@@ -1,20 +1,18 @@
-# employee-management-system
-A simple Python-based employee management system designed for internal business use.
+# Employee Management System (Python)
 
- Features
-- Add employee records
-- View employee list
-- Store employee data using SQLite
+A simple command-line-based Employee Management System developed in Python.
+This project demonstrates core software development skills, including CRUD
+operations, database integration, and clean code structure.
 
- Technologies
+# 🚀 Features
+- Add new employees
+- List all employees
+- Delete employees by ID
+- SQLite database integration
+- Modular Python code structure
+
+# 🛠️ Technologies Used
 - Python 3
 - SQLite
 - Git & GitHub
-
- Purpose
-This project demonstrates basic software development, database integration, and clean coding practices suitable for junior software developer roles.
-
- Future Improvements
-- Update and delete employee records
-- User authentication
-- Reporting features
+- VS Code
